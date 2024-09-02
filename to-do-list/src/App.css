@@ -1,0 +1,13 @@
+/* Updated Styles */
+.list-group-item {
+  color: black !important; 
+}
+
+.list-group-item .btn-warning,
+.list-group-item .btn-danger {
+  color: white !important; 
+}
+
+.rounded-pill {
+  border-radius: 8px !important; 
+}
